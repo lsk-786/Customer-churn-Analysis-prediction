@@ -2,7 +2,7 @@
 
 This project focuses on analyzing and predicting customer churn using machine learning techniques. By examining key behavioral and service-related factors, the project identifies patterns that lead customers to stop using a service — a critical metric for businesses to monitor and reduce.
 
-** Project Overview**
+**Project Overview**
 Customer churn refers to when customers stop doing business with a company. This project uses a telecom dataset to:
 
 Understand customer behaviors that influence churn
